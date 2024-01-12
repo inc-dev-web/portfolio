@@ -103,3 +103,72 @@ Manages how the tokens can be purchased. It is called from the web UI using Meta
 ![MonFi Token Presale](images/monfi-presale.png "MonFi Token Presale")
 
 It is a small dApp placed on the crowdfunding platform and has capabilities of selling the token with either ETH or USDT ERC20.
+
+## YoterUp
+
+[YoterUp](https://yoterup.com/) is a commercial website that combines modern design with simplicity and visual effects.
+
+![YoterUp](images/yoterup.png "YoterUp")
+
+Though the website is not big, it si full of micro animations and details that make the picture of the website feel full and complete. 
+
+The site consists of 5 pages:
+- Landing page - main idea about the company is described here
+- For Advertisers - the page displays the information that will be useful to understand for advertisers that want to use the platform
+- For Publishers - the page displays general info that publishers can use to better understand how the business model work
+- Offers - page lists advertising offers from multiple services. 
+*UPD: As for now, the page is not working currectly due to problems on the side of the project founders*
+
+## Forbs
+
+[Forbs](https://forbsab.se) is a landing page for the swedish building company. 
+
+![Forbs](images/forbs.jpeg "Forbs")
+
+The website has minimalistic design and offers a lot of informational content about the company including:
+
+- Brief facts about the company
+- Services list
+- Contact info
+- Company policies
+  - Quality policy
+  - Environment policy
+- Company news
+- Team contacts
+
+As every other landing page, this website has action in focus - contacting the company with contact form. The contact form is implemented to suit the company's needs about the potential client's information.
+
+## MEISER Product Finder
+
+[MEISER Product Finder](https://meiser.pages.dev/) is a web-application that allows the users and potential clients of the company to browse catalog of systems that are available for purchase.
+
+![MEISER Product Finder](images/meiser.png "MEISER Product Finder")
+
+The end product consists of two parts:
+- Client-facing website
+- CMS for managing the content displayed in product finder
+
+### Client-facing website
+
+This application has technical design and features finding the products by their characteristics. It also supports different sorting options. All the system types and products are **configurable inside the CMS**
+
+The client-facing application features:
+- Minimalistic technical design that matches the main website style
+- Filtering products by their attributes (containment level, installation conditions etc.)
+- Sorting products by table columns
+- Custom display for every type of system (every type of system has its own filters and table columns)
+
+### CMS
+
+As one of the requirements of the system was to have a possibility to change the list of product finder items, system types, table columns and filters, the special CMS was built in order to achieve the goal.
+
+The CMS can only be accessible by admin. The authentication of the system is managed by Auth0 so it is secured by many standards implemented by the auth provider.
+
+CMS functionality includes:
+- Creation of system types
+- Editing of system type data
+- Changing the order of displayed system types
+- Adding attributes to system types
+- Editing which attributes of system types should/should not be displayed as filters
+- Editing which attributes of system types should/should not be displayed in the table
+- Editing the product information, its image and attribute values
