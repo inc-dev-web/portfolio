@@ -1,5 +1,7 @@
 # Inc-dev portfolio
 
+![Inc-Dev Logo](images/IncDev_logo_bg-w.svg "Inc-Dev Logo")
+
 ## Cases
 
 ### Smoke Laboratory
