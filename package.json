@@ -1,0 +1,9 @@
+{
+  "name": "portfolio",
+  "scripts": {
+    "build": "vivliostyle build --style build/style.css README.md -o dist/output.pdf"
+  },
+  "dependencies": {
+    "@vivliostyle/cli": "^8.6.0"
+  }
+}

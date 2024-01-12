@@ -1,6 +1,6 @@
-# Inc-dev portfolio
+# PORTFOLIO
 
-![Inc-Dev Logo](images/IncDev_logo_bg-w.svg "Inc-Dev Logo")
+![Inc-Dev Logo](images/IncDev_Logo_Color-w-bg.png "Inc-Dev Logo")
 
 ## Cases
 
