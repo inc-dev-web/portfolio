@@ -104,6 +104,16 @@ Manages how the tokens can be purchased. It is called from the web UI using Meta
 
 It is a small dApp placed on the crowdfunding platform and has capabilities of selling the token with either ETH or USDT ERC20.
 
+## SoCap Wallet
+
+[SoCap Wallet](https://apps.apple.com/ru/app/socap-wallet/id1608498656) is a crypto wallet application for iOS and Android funded by popular project SoCap. 
+
+![SoCap Wallet](images/socap.png "SoCap Wallet")
+
+The wallet is developed to support ETH, BNB and Polygon chains. Its minimalistic user interface gives a nice feel for usability and the huge variety of available chains gives an opportunity to never use any other wallet ever again.
+
+SoCap wallet also easily connects to WalletConnect that gives huge opportunities in connecting to dApps.
+
 ## YoterUp
 
 [YoterUp](https://yoterup.com/) is a commercial website that combines modern design with simplicity and visual effects.
@@ -172,3 +182,5 @@ CMS functionality includes:
 - Editing which attributes of system types should/should not be displayed as filters
 - Editing which attributes of system types should/should not be displayed in the table
 - Editing the product information, its image and attribute values
+
+
