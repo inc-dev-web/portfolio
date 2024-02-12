@@ -148,6 +148,30 @@ The website has minimalistic design and offers a lot of informational content ab
 
 As every other landing page, this website has action in focus - contacting the company with contact form. The contact form is implemented to suit the company's needs about the potential client's information.
 
+## PTronTech Landing
+
+[PTronTech](https://ptrontech.com/en) is a landing page for the french IT, Design and Marketing company.
+
+![PTronTech Dark Theme](images/p-tron-tech.png "MEISER Product Finder")
+*Dark theme*
+
+![PTronTech LightTheme](images/p-tron-tech-light.png "MEISER Product Finder")
+*Light Theme*
+
+The landing page is designed to match current trends in UI and Landing page design. With its combination of 3D and minimalistic style, it creates a futuristic and modern feeling in mind of future company's clients.
+
+Animations draw user's attention to the website throughout the entire page and never let them get bored by what they see
+
+The information that the website provides for a user includes:
+- Company Collaborations
+- Why clients should choose PTronTech over other companies
+- What services are provdied by the company
+- What options PTronTech has to provider for a customer
+- Projects & Partners of the company
+- Other advantages of working with the company
+- Company's latest achievments
+- Contact form
+
 ## MEISER Product Finder
 
 [MEISER Product Finder](https://meiser.pages.dev/) is a web-application that allows the users and potential clients of the company to browse catalog of systems that are available for purchase.
